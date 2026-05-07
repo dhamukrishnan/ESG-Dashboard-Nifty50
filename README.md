@@ -140,38 +140,17 @@ This project demonstrates how ESG analytics can support sustainability-focused i
 - Data Visualization
 - ESG Framework Analysis
 
----
-
-# 📸 Dashboard Preview
-
-## 🔹 ESG Overview Dashboard
-![Overview](Screenshots/overview.png)
-
----
-
-## 🔹 KPI Performance Section
-![KPI](Screenshots/kpi.png)
-
----
-
-## 🔹 Company-Level ESG Analysis
-![Table](Screenshots/table.png)
-
----
-
 # 🎥 Project Demo Video
 
 ▶ **Watch Full ESG Dashboard Demo**  
-https://drive.google.com/file/d/1QrrG9xwSDjelZPAgyVw9Yk4dDqI5Ewq3/view?usp=sharing
-
+https://drive.google.com/file/d/1QrrG9xwSDjelZPAgyVw9Yk4dDqI5Ewq3/view?usp=drivesdk
 ---
 
 # 📂 Complete Project Repository & Files
 
 📁 **Access Full Project Files Here**  
 (Includes Power BI dashboard, methodology document, demo videos, and screenshots)
-
-https://drive.google.com/drive/folders/15AVVwUNaimdPWXREe65uul7bOi994J2f?usp=sharing
+https://drive.google.com/drive/folders/15AVVwUNaimdPWXREe65uul7bOi994J2f
 
 ---
 
@@ -215,6 +194,16 @@ The dashboard provides a sustainability-oriented perspective that supports infor
 ---
 
 # 🔗 Connect With Me
-(Add your LinkedIn profile link here)
+(https://www.linkedin.com/in/dhamodaran-s-0615ab219?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 #PowerBI #DataAnalytics #BusinessIntelligence #ESG #Sustainability #SQL #DashboardDesign #NIFTY50
+
+---
+
+# ⚠️ Disclaimer
+
+This project is developed solely for educational and portfolio purposes.
+
+The ESG scores and analysis presented in this dashboard are independently derived based on selected indicators and do not represent official ESG ratings or investment advice.
+
+All company-related information used in this project is based on publicly available data sources.
