@@ -146,22 +146,10 @@ This project demonstrates how ESG analytics can support sustainability-focused i
 https://drive.google.com/file/d/1QrrG9xwSDjelZPAgyVw9Yk4dDqI5Ewq3/view?usp=drivesdk
 ---
 
-# 📂 Complete Project Repository & Files
-
-📁 **Access Full Project Files Here**  
-(Includes Power BI dashboard, methodology document, demo videos, and screenshots)
-https://drive.google.com/drive/folders/15AVVwUNaimdPWXREe65uul7bOi994J2f
-
----
-
 # 📁 Repository Structure
 
 ```text
 ESG-Dashboard-Nifty50/
-│
-├── ESG_Dashboard.pbix
-├── methodology.pdf
-│
 ├── Screenshots/
 │   ├── overview.png
 │   ├── kpi.png
